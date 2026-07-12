@@ -326,22 +326,22 @@ Outside of engineering core execution nodes, I dedicate time to writing deep-div
       <img src="https://img.shields.io/github/followers/bibhudattanayakofficial?label=%20&style=flat-square&color=282c34" alt="GitHub Followers Count" />
     </td>
     <td>
-      <img src="https://img.shields.io/badge/15k-0A66C2?style=flat-square" alt="LinkedIn Network Size" />
+      <img src="https://img.shields.io/badge/15.5k-0A66C2?style=flat-square" alt="LinkedIn Network Size" />
     </td>
     <td>
-      <img src="https://img.shields.io/badge/10-000000?style=flat-square" alt="Medium Story Followers" />
+      <img src="https://img.shields.io/badge/11-000000?style=flat-square" alt="Medium Story Followers" />
     </td>
     <td>
       <img src="https://img.shields.io/youtube/channel/subscribers/UCtpFK7Ugxy_GgRqQ6BoCZ1Q?label=%20&style=flat-square&color=282c34" alt="YouTube Subscribers Count" />
     </td>
     <td>
-      <img src="https://img.shields.io/badge/85-000000?style=flat-square" alt="X Audience Size" />
+      <img src="https://img.shields.io/badge/95-000000?style=flat-square" alt="X Audience Size" />
     </td>
     <td>
-      <img src="https://img.shields.io/badge/2.5k-E4405F?style=flat-square" alt="Instagram Network Scale" />
+      <img src="https://img.shields.io/badge/2.6k-E4405F?style=flat-square" alt="Instagram Network Scale" />
     </td>
     <td>
-      <img src="https://img.shields.io/badge/270-1877F2?style=flat-square" alt="Facebook Community Scale" />
+      <img src="https://img.shields.io/badge/295-1877F2?style=flat-square" alt="Facebook Community Scale" />
     </td>
     <td>
       <img src="https://img.shields.io/badge/1-0A0A0A?style=flat-square" alt="Dev.to Pipeline Connections" />
