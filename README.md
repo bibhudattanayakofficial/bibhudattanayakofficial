@@ -326,7 +326,7 @@ Outside of engineering core execution nodes, I dedicate time to writing deep-div
       <img src="https://img.shields.io/github/followers/bibhudattanayakofficial?label=%20&style=flat-square&color=282c34" alt="GitHub Followers Count" />
     </td>
     <td>
-      <img src="https://img.shields.io/badge/15.5k-0A66C2?style=flat-square" alt="LinkedIn Network Size" />
+      <img src="https://img.shields.io/badge/15.6k-0A66C2?style=flat-square" alt="LinkedIn Network Size" />
     </td>
     <td>
       <img src="https://img.shields.io/badge/11-000000?style=flat-square" alt="Medium Story Followers" />
