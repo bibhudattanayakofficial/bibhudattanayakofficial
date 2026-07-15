@@ -2,7 +2,7 @@
 <div align="center">
   <!-- Foolproof Pure Text Title (Guarantees 100% rendering uptime) -->
   <h1>Bibhudatta Nayak</h1>
-  
+  <br>
   <p align="center">
     <strong> Senior Integration Engineer @LTM | Ex - Cognizant | Ex-Eidiko | IBM ACE | IIB | Java | CP4I </strong>
   </p>
