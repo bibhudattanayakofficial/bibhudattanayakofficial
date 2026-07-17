@@ -366,7 +366,7 @@ Outside of engineering core execution nodes, I dedicate time to writing deep-div
     No trophies or profile achievements available right now.
   </p>
 </div>
-  <br /><br />
+  <br />
 
   <!-- Contribution Streak -->
   <h3>🔥 Contribution Streak Tracking</h3>
@@ -378,8 +378,8 @@ Outside of engineering core execution nodes, I dedicate time to writing deep-div
   <h3>📈 Performance Rhythm & Commit Velocity</h3>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=bibhudattanayakofficial&theme=react-dark&bg_color=0d1117&hide_border=true" alt="Date-Wise Commit Velocity" width="100%" />
 
-  <br/><br/>
-
+  <br/>
+  <br/>
 <!-- Language Breakdown -->
 <h3>📊 Most Used Languages (%)</h3>
 <div style="display: block; width: 100%;">
@@ -391,6 +391,7 @@ Outside of engineering core execution nodes, I dedicate time to writing deep-div
 </div>
 
 ---
+
 <br />
 <div align="center">
 
