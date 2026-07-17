@@ -394,13 +394,11 @@ Outside of engineering core execution nodes, I dedicate time to writing deep-div
 
 <br />
 <div align="center">
-
 ### 🌐 Connect & Verify Credentials
 
 *"Transforming disconnected enterprise systems into unified, high-performance ecosystems."*
 
 🚀 **A simple ⭐ helps boost visibility, supports ongoing open-source development, and keeps these production-ready repositories free for everyone.**
-
 <!-- Live Star Dynamic Counter badge -->
 [![GitHub stars](https://img.shields.io/github/stars/bibhudattanayakofficial/bibhudattanayakofficial?style=social)](https://github.com/bibhudattanayakofficial/bibhudattanayakofficial/stargazers)
 <br />
