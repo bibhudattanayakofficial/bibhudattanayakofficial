@@ -402,9 +402,7 @@ Outside of engineering core execution nodes, I dedicate time to writing deep-div
 
 <!-- Live Star Dynamic Counter badge -->
 [![GitHub stars](https://img.shields.io/github/stars/bibhudattanayakofficial/bibhudattanayakofficial?style=social)](https://github.com/bibhudattanayakofficial/bibhudattanayakofficial/stargazers)
-
 <br />
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bibhudattanayakofficial)
 [![X](https://img.shields.io/badge/X_/_Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/bibhudattaoffl)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/bibhudattanayakofficial)
