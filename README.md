@@ -230,7 +230,7 @@ Outside of engineering core execution nodes, I dedicate time to writing deep-div
 ---
 <!-- ================= FEATURED ENTERPRISE REPOSITORIES ================= -->
 ## 🚀 Featured Repositories
-<!--1.  📂 **[Core-Banking-System-Simulation](https://github.com/bibhudattanayakofficial)** — Distributed enterprise simulation mapping complex account-processing flows, transactional isolation rules, and asynchronous message transformations across integration nodes.
+<!--1. 📂 **[Core-Banking-System-Simulation](https://github.com/bibhudattanayakofficial)** — Distributed enterprise simulation mapping complex account-processing flows, transactional isolation rules, and asynchronous message transformations across integration nodes.
 2.  📂 **[IBM-ACE-REST-Services](https://github.com/bibhudattanayakofficial)** — Production-ready reference library showcasing optimized IBM ACE REST subflows, error aggregation routines, and global cache implementation strategies.
 3.  📂 **[MQ-Messaging-Patterns-Demo](https://github.com/bibhudattanayakofficial)** — Blueprint framework mapping request-reply patterns, clustered queue routing logic, backout structures, and poison-message handling protocols.
 4.  📂 **[ESQL-Utility-Framework](https://github.com/bibhudattanayakofficial)** — Collection of performant ESQL compute node procedures and shared functions designed to optimize memory usage during multi-field parsing loops.
