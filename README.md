@@ -4,7 +4,7 @@
   <h1>Bibhudatta Nayak</h1>
   <br>
   <p align="center">
-    <strong> | Senior Integration Engineer @LTM | Ex - Cognizant | Ex-Eidiko | IBM ACE | IIB | Java | CP4I | </strong>
+    <strong> | Senior Integration Engineer @LTM | Ex - Cognizant | Ex-Eidiko | IBM ACE | IIB | Java | Python | CP4I | </strong>
   </p>
   
   ---
@@ -246,7 +246,6 @@ Outside of engineering core execution nodes, I dedicate time to writing deep-div
 ---
 <!-- ================= CONTENT CHANNELS & BROADCASTS ================= -->
 ## ✍️ Broadcast Hub (Publications & Newsletters)
-
 ### 🖥️ Technical Insights & Middleware Knowledge
 
 * #### [![LinkedIn](https://img.shields.io/badge/LinkedIn-My_Profile-00A2ED?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/bibhudattanayakofficial/)
