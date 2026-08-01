@@ -26,7 +26,7 @@
 <!-- ================= ABOUT ME ================= -->
 ## 🙋‍♂️ About Me
 
-I am a **Senior Enterprise Integration Engineer** passionate about building secure, scalable, and high-performance integration platforms. My primary focus centers on reducing message latency, ensuring strict transactional data consistency, and modernizing traditional enterprise messaging landscapes.
+I am a **Senior Enterprise Integration Engineer** passionate about building secure, scalable, and high-performance integration platforms. My primary focus centers on reducing message latency, ensuring strict transactional data consistency, and modernizing traditional enterprise messaging landscapes. 
 
 I specialize in **IBM App Connect Enterprise (ACE)**, **IBM MQ**, **Java**, **REST/SOAP APIs**, **Cloud Integration**, and **Middleware Modernization**. 
 
