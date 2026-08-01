@@ -6,7 +6,6 @@
   <p align="center">
     <strong> | Senior Integration Engineer @LTM | Ex - Cognizant | Ex-Eidiko | IBM ACE | IIB | Java | Python | CP4I | </strong>
   </p>
-
   
   ---
   <!-- SEO-Optimized Typing Bio focusing on Integration and Middleware -->
