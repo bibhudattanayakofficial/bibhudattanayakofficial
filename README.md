@@ -8,7 +8,7 @@
   </p>
   
   ---
-  <!-- SEO-Optimized Typing Bio focusing on Integration and Middleware -->
+<!-- SEO-Optimized Typing Bio focusing on Integration and Middleware -->
 <!--  <code><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=A29BFE&center=true&vCenter=true&width=650&height=50&lines=Developing+Enterprise+Message+Flows;Specializing+in+Hybrid+Cloud+Integration;Optimizing+High-Throughput+Middleware" alt="Bio Typist" /></code>
   <br />
   
