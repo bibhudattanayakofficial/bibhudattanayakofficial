@@ -85,7 +85,6 @@ Outside of engineering core execution nodes, I dedicate time to writing deep-div
 </table>
 
 ---
-
 ## 🏅 Certifications & Badges
 *   🥇 **IBM Certified Professional:** IBM App Connect Enterprise (ACE) V10, v11, v12
 *   🥇 **IBM Technical Specialist Badge:** IBM MQ Developer Essentials, IBM watsonx Orchestrate Build an AI Assistant, IBM App Connect Enterprise 12 Application Development I, IBM App Connect Enterprise V11 Application Development
