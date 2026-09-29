@@ -322,7 +322,7 @@ Outside of engineering core execution nodes, I dedicate time to writing deep-div
 <h3>📊 Most Used Languages (%)</h3>
 <div style="display: block; width: 100%;">
  <!-- <object data="https://github-readme-stats.vercel.app/api/top-langs/?username=bibhudattanayakofficial&layout=compact&theme=tokyonight&langs_count=10&hide_border=true&count_private=true" type="image/svg+xml" style="max-width: 100%; display: block; width: 100%;">-->
-  <img src="https://github-readme-stats.vercel.app/api?username=bibhudattanayakofficial&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=bibhudattanayakofficial&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
     <p style="color: red; font-style: italic; padding: 10px 0;">
       ⚠️ Currently Most Used Languages Stat Not Available...!!!
     </p>
