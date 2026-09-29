@@ -99,7 +99,7 @@ Outside of engineering core execution nodes, I dedicate time to writing deep-div
 *   **Languages:**  
     ![ESQL](https://img.shields.io/badge/ESQL-2C3E50?style=for-the-badge&logo=code&logoColor=white) 
     ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
-    ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+    <!--![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)-->
     ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) 
     ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
     ![JavaScript](https://img.shields.io/badge/JavaScript-(Basics)-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -121,11 +121,11 @@ Outside of engineering core execution nodes, I dedicate time to writing deep-div
 *   **Cloud, Containers & OS:**  
     ![IBM CP4I](https://img.shields.io/badge/IBM_Cloud_Pak_for_Integration_(CP4I)-052F5F?style=for-the-badge&logo=ibm&logoColor=white) 
     ![Red Hat OpenShift](https://img.shields.io/badge/Red_Hat_OpenShift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white) 
-    ![AKS](https://img.shields.io/badge/Azure_Kubernetes_Service_(AKS)-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+    <!--  ![AKS](https://img.shields.io/badge/Azure_Kubernetes_Service_(AKS)-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)-->
     ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
     ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) 
-    ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white) 
-    ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white) 
+    <!--  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white) -->
+    <!--  ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white) -->
     ![IBM Cloud](https://img.shields.io/badge/IBM_Cloud-052F5F?style=for-the-badge&logo=ibm&logoColor=white)
     ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
@@ -135,17 +135,17 @@ Outside of engineering core execution nodes, I dedicate time to writing deep-div
     ![IBM DB2](https://img.shields.io/badge/IBM_DB2-052F5F?style=for-the-badge&logo=ibm&logoColor=white) 
     ![MS SQL Server](https://img.shields.io/badge/MS_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white) 
     ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) 
-    ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-    ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+    <!--  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)-->
+    <!--  ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)-->
 
 *   **DevOps, Testing & Quality Assurance:**  
     ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-    ![Apache Maven](https://img.shields.io/badge/Apache_Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+    <!--  ![Apache Maven](https://img.shields.io/badge/Apache_Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)-->
     ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
-    ![JMeter](https://img.shields.io/badge/JMeter-D42029?style=for-the-badge&logo=apachejmeter&logoColor=white)  
-    ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+    <!--  ![JMeter](https://img.shields.io/badge/JMeter-D42029?style=for-the-badge&logo=apachejmeter&logoColor=white)  -->
+    <!--  ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)-->
     ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-    ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
+    <!--  ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)-->
 
 ---
 ## 🔍 View Additional Skills
@@ -155,7 +155,7 @@ Outside of engineering core execution nodes, I dedicate time to writing deep-div
 <br>
   
 *   **Java Technology & Frameworks:**  
-    ![Spring](https://img.shields.io/badge/Spring_(Basics)-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+    <!--  ![Spring](https://img.shields.io/badge/Spring_(Basics)-6DB33F?style=for-the-badge&logo=spring&logoColor=white)-->
     ![Servlets](https://img.shields.io/badge/Servlets-ED8B00?style=for-the-badge) 
     ![JDBC](https://img.shields.io/badge/JDBC-ED8B00?style=for-the-badge)
 
@@ -168,14 +168,14 @@ Outside of engineering core execution nodes, I dedicate time to writing deep-div
     ![SSL/TLS](https://img.shields.io/badge/SSL%20%2F%20TLS-008080?style=for-the-badge)
     ![SSH](https://img.shields.io/badge/SSH-000000?style=for-the-badge&logo=openssh&logoColor=white)
     ![TCP/IP](https://img.shields.io/badge/TCP%20%2F%20IP-4E9BCD?style=for-the-badge)
-    ![Web Socket](https://img.shields.io/badge/Web_Sockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+    <!--  ![Web Socket](https://img.shields.io/badge/Web_Sockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white)-->
     ![SMTP](https://img.shields.io/badge/SMTP-787878?style=for-the-badge)
     ![IMAP](https://img.shields.io/badge/IMAP-787878?style=for-the-badge)
     
 *   **Logging & Observability:**  
     ![Log4j](https://img.shields.io/badge/Log4j-D22128?style=for-the-badge&logo=apache&logoColor=white)
-    ![SLF4J](https://img.shields.io/badge/SLF4J-2C3E50?style=for-the-badge&logo=java&logoColor=white)
-    ![ELK](https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white)
+    <!--  ![SLF4J](https://img.shields.io/badge/SLF4J-2C3E50?style=for-the-badge&logo=java&logoColor=white)-->
+    <!--  ![ELK](https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white)-->
     ![CasManGo](https://img.shields.io/badge/CasManGo-2C3E50?style=for-the-badge&logo=logstash&logoColor=white)
 
 *   **Data Formats & Protocols:**  
@@ -188,43 +188,43 @@ Outside of engineering core execution nodes, I dedicate time to writing deep-div
 *   **Utility Tools & Operating Utilities:**  
     ![PuTTY](https://img.shields.io/badge/PuTTY-0000FC?style=for-the-badge)
     ![WinSCP](https://img.shields.io/badge/WinSCP-009B00?style=for-the-badge)
-
+<!--  
 *   **Data Analytics & Engineering Platforms:**  
     ![Jupyter](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
     ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
     ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
     ![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
+-->
 *   **Collaboration Platforms:**  
     ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white) 
     ![JFrog Artifactory](https://img.shields.io/badge/JFrog_Artifactory-40BA46?style=for-the-badge&logo=jfrog&logoColor=white) 
     ![Azure Board](https://img.shields.io/badge/Azure_Boards-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white) 
-    ![ServiceNow](https://img.shields.io/badge/ServiceNow-293E40?style=for-the-badge&logo=servicenow&logoColor=white)
+    <!--  ![ServiceNow](https://img.shields.io/badge/ServiceNow-293E40?style=for-the-badge&logo=servicenow&logoColor=white)-->
     ![Confluence](https://img.shields.io/badge/Confluence-0052CC?style=for-the-badge&logo=confluence&logoColor=white) 
 
 *   **Web Technology:**  
     ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
     ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
-    ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) 
-    ![JQuery](https://img.shields.io/badge/JQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-    ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-    ![React](https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+    <!--  ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) -->
+    <!--  ![JQuery](https://img.shields.io/badge/JQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)-->
+    ![JavaScript (Basics)](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+    <!--  ![React](https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black)-->
 
 *   **Web & Application Servers:**  
     ![Apache Tomcat](https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black)
     ![Apache HTTP Server](https://img.shields.io/badge/Apache_HTTP-D22128?style=for-the-badge&logo=apache&logoColor=white)
     ![Microsoft IIS](https://img.shields.io/badge/Microsoft_IIS-0078D7?style=for-the-badge&logo=microsoft&logoColor=white)
-    ![Oracle WebLogic](https://img.shields.io/badge/Oracle_WebLogic-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+    <!--  ![Oracle WebLogic](https://img.shields.io/badge/Oracle_WebLogic-F80000?style=for-the-badge&logo=oracle&logoColor=white)
     ![WildFly](https://img.shields.io/badge/WildFly-4682B4?style=for-the-badge&logo=wildfly&logoColor=white)
     ![JBoss](https://img.shields.io/badge/JBoss_EAP-CC0000?style=for-the-badge&logo=redhat&logoColor=white)
-    ![GlassFish](https://img.shields.io/badge/GlassFish-2C3E50?style=for-the-badge&logo=eclipsefoundation&logoColor=white)
-
+    ![GlassFish](https://img.shields.io/badge/GlassFish-2C3E50?style=for-the-badge&logo=eclipsefoundation&logoColor=white)-->
+<!--  
 *   **Professional Credentials & Emerging Tech:**
   
     ![MCP](https://img.shields.io/badge/Model_Context_Protocol_(MCP)-191970?style=for-the-badge&logo=ai&logoColor=white)
     ![Gen AI Fundamentals](https://img.shields.io/badge/Gen_AI_Fundamentals-8A2BE2?style=for-the-badge) 
     ![Agentic AI Fundamentals](https://img.shields.io/badge/Agentic_AI_Fundamentals-8A2BE2?style=for-the-badge)
-
+-->
 </details>
 
 ---
