@@ -248,9 +248,6 @@ Outside of engineering core execution nodes, I dedicate time to writing deep-div
     <td>
       <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Logo" />    
     </td>
-    <td>
-      <img src="https://img.shields.io/badge/-Dev.to-0A0A0A?style=for-the-badge&logo=devto&logoColor=white" alt="Dev.to Logo" />
-    </td>
   </tr>
 
   <!-- ROW 2: ACTION TRIGGERS (Clickable links that open safely in a new browser tab) -->
