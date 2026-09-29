@@ -282,10 +282,10 @@ Outside of engineering core execution nodes, I dedicate time to writing deep-div
       <img src="https://img.shields.io/badge/100-000000?style=flat-square" alt="X Audience Size" />
     </td>
     <td>
-      <img src="https://img.shields.io/badge/2.6k-E4405F?style=flat-square" alt="Instagram Network Scale" />
+      <img src="https://img.shields.io/badge/4.7k-E4405F?style=flat-square" alt="Instagram Network Scale" />
     </td>
     <td>
-      <img src="https://img.shields.io/badge/298-1877F2?style=flat-square" alt="Facebook Community Scale" />
+      <img src="https://img.shields.io/badge/400-1877F2?style=flat-square" alt="Facebook Community Scale" />
     </td>
   </tr>
 </table>
