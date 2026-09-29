@@ -235,8 +235,10 @@ Outside of engineering core execution nodes, I dedicate time to writing deep-div
 3.  📂 **[MQ-Messaging-Patterns-Demo](https://github.com/bibhudattanayakofficial)** — Blueprint framework mapping request-reply patterns, clustered queue routing logic, backout structures, and poison-message handling protocols.
 4.  📂 **[ESQL-Utility-Framework](https://github.com/bibhudattanayakofficial)** — Collection of performant ESQL compute node procedures and shared functions designed to optimize memory usage during multi-field parsing loops.
 5.  📂 **[Java-Compute-Extensions](https://github.com/bibhudattanayakofficial)** — Custom Java isolation plugins built to extend broker capabilities with complex cryptography and native computations.
-6.  📂 **[Docker-ACE-Containerization](https://github.com/bibhudattanayakofficial)** — Infrastructure-as-code mapping base environment configurations, dynamic override parameters, and BAR file deployment strategies inside containers. -->
+6.  📂 **[Docker-ACE-Containerization](https://github.com/bibhudattanayakofficial)** — Infrastructure-as-code mapping base environment configurations, dynamic override parameters, and BAR file deployment strategies inside containers. 
 1.  📂 **[StudentManagementUI](https://github.com/bibhudattanayakofficial/StudentManagementUI)** — Clean web tracking layout demonstrating fast browser data rendering using framework-free native frontends.
+-->
+1.  📂 **[ESQL Masterclass: The Evolution Series](https://github.com/bibhudattanayakofficial/esql-evolution-series-journey)** — GitHub repository detailing advanced ESQL integration patterns, transformation techniques, and troubleshooting strategies for IBM App Connect Enterprise.
 
 <!-- --- -->
 <!-- ================= CURRENT LEARNING TRACKS ================= -->
