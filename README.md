@@ -181,7 +181,7 @@ Outside of engineering core execution nodes, I dedicate time to writing deep-div
 *   **Web Technology:**  
     ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
     ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
-    ![JavaScript (Basics)](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+    ![JavaScript (Basics)](https://img.shields.io/badge/JavaScript-(Basics)-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
     
 *   **Web & Application Servers:**  
     ![Apache Tomcat](https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black)
@@ -270,13 +270,13 @@ Outside of engineering core execution nodes, I dedicate time to writing deep-div
       <img src="https://img.shields.io/github/followers/bibhudattanayakofficial?label=%20&style=flat-square&color=282c34" alt="GitHub Followers Count" />
     </td>
     <td>
-      <img src="https://img.shields.io/badge/15.9k-0A66C2?style=flat-square" alt="LinkedIn Network Size" />
+      <img src="https://img.shields.io/badge/16.8k-0A66C2?style=flat-square" alt="LinkedIn Network Size" />
     </td>
     <td>
-      <img src="https://img.shields.io/badge/11-000000?style=flat-square" alt="Medium Story Followers" />
+      <img src="https://img.shields.io/badge/16-000000?style=flat-square" alt="Medium Story Followers" />
     </td>
     <td>
-      <img src="https://img.shields.io/youtube/channel/subscribers/UCtpFK7Ugxy_GgRqQ6BoCZ1Q?label=%20&style=flat-square&color=282c34" alt="YouTube Subscribers Count" />
+      <img src="https://img.shields.io/youtube/channel/subscribers/v3/UCtpFK7Ugxy_GgRqQ6BoCZ1Q?label=%20&style=flat-square&color=282c34" alt="YouTube Subscribers Count" />
     </td>
     <td>
       <img src="https://img.shields.io/badge/100-000000?style=flat-square" alt="X Audience Size" />
