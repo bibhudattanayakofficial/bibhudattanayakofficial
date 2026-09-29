@@ -4,7 +4,7 @@
   <h1>Bibhudatta Nayak</h1>
   <hr>
   <p align="center">
-    <strong> | Senior Integration Engineer @LTM | Ex - Cognizant | Ex-Eidiko | IBM ACE | IIB | Java | Python | CP4I | </strong>
+    <strong> | Senior Integration Engineer @LTM | Cognizant | Ex-Eidiko | IBM ACE | IIB | Java | Python | CP4I | </strong>
   </p>
   
   ---
