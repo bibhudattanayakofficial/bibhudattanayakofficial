@@ -314,14 +314,15 @@ Outside of engineering core execution nodes, I dedicate time to writing deep-div
 
   <!-- Date-Wise Commit Velocity -->
   <h3>📈 Performance Rhythm & Commit Velocity</h3>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bibhudattanayakofficial&theme=react-dark&bg_color=0d1117&hide_border=true" alt="Date-Wise Commit Velocity" width="100%" />
+ <img src="https://productivity-readme.vercel.app/api/graph?username=bibhudattanayakofficial&theme=react-dark&bg_color=0d1117&hide_border=true" alt="Date-Wise Commit Velocity" width="100%" />
 
   <br/>
   <br/>
 <!-- Language Breakdown -->
 <h3>📊 Most Used Languages (%)</h3>
 <div style="display: block; width: 100%;">
-  <object data="https://github-readme-stats.vercel.app/api/top-langs/?username=bibhudattanayakofficial&layout=compact&theme=tokyonight&langs_count=10&hide_border=true&count_private=true" type="image/svg+xml" style="max-width: 100%; display: block; width: 100%;">
+ <!-- <object data="https://github-readme-stats.vercel.app/api/top-langs/?username=bibhudattanayakofficial&layout=compact&theme=tokyonight&langs_count=10&hide_border=true&count_private=true" type="image/svg+xml" style="max-width: 100%; display: block; width: 100%;">-->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bibhudattanayakofficial&layout=compact&theme=tokyonight&langs_count=10&hide_border=true" alt="Top Languages" style="max-width: 100%; display: block; width: 100%;" />
     <p style="color: red; font-style: italic; padding: 10px 0;">
       ⚠️ Currently Most Used Languages Stat Not Available...!!!
     </p>
