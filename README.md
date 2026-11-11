@@ -273,7 +273,7 @@ Outside of engineering core execution nodes, I dedicate time to writing deep-div
       <img src="https://img.shields.io/badge/16-000000?style=flat-square" alt="Medium Story Followers" />
     </td>
     <td>
-      <img src="https://img.shields.io/youtube/channel/subscribers/UCtpFK7Ugxy_GgRqQ6BoCZ1Q?label=%20&style=flat-square&color=282c34" alt="YouTube Subscribers Count" />
+      <img src="https://img.shields.io/badge/Watch-Bibhudatta_Nayak-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Bibhudatta Nayak YouTube" />
     </td>
     <td>
       <img src="https://img.shields.io/badge/102-000000?style=flat-square" alt="X Audience Size" />
