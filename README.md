@@ -264,7 +264,7 @@ Outside of engineering core execution nodes, I dedicate time to writing deep-div
   <!-- ROW 3: PLATFORM METRICS (Clean, static, unclickable telemetry views) -->
   <tr align="center" valign="top">
     <td>
-      <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fyoutube-subscriber-count-api.vercel.app%2Fapi%2FUCtpFK7Ugxy_GgRqQ6BoCZ1Q&label=Subscribers&style=flat-square&color=282c34&logo=youtube" alt="YouTube Subscribers Count" />
+      <img src="https://img.shields.io/github/followers/bibhudattanayakofficial?label=Followers&style=flat-square&color=282c34&logo=github" alt="GitHub Followers" />
     </td>
     <td>
       <img src="https://img.shields.io/badge/17.2k-0A66C2?style=flat-square" alt="LinkedIn Network Size" />
